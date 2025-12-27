@@ -7,6 +7,7 @@ fn main() {
       uno : 1,
       due : 2,
     };
-
+    
+  print!("{} , {} ", test_a.uno, test_a.due);
   println!("fine prog  {:?}", test_a );
 }
