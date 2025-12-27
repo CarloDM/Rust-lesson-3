@@ -1,4 +1,5 @@
+#[derive(Debug)]
 pub struct Prova {
-  uno: i32,
-  due: i32,
+  pub uno: i32,
+  pub due: i32,
 }
